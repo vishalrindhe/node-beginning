@@ -3045,3 +3045,54 @@ kf5.kservice.sycoca: Invalid Service :  "/usr/share/applications/org.gnome.Chrom
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 34136, resource id: 77594835, major code: 2 (ChangeWindowAttributes), minor code: 0
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40953, resource id: 79692279, major code: 15 (QueryTree), minor code: 0
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40958, resource id: 79692279, major code: 18 (ChangeProperty), minor code: 0
+PackageKit stopped running!
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 63405, resource id: 77594625, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 63409, resource id: 77594625, major code: 18 (ChangeProperty), minor code: 0
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+received broken image QUrl("https://cn.opendesktop.org/cache/100x100-0/img/e/3/6/7/e6444c9e15585592491c22c0e0c985a356a6.png")
+received broken image QUrl("https://cn.opendesktop.org/cache/100x100-0/img/7/8/1/8/58801d3be6914c289d0cdef8e8bb3ce865aa.png")
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+kf5.ki18n: "0 instead of 1 arguments to message {- %1} supplied before conversion."
+org.kde.plasma.libdiscover: last stream isn't over yet Filters(search: "atom",) ResourcesProxyModel(0x55858702b2e0)
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9008, resource id: 56623127, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9013, resource id: 56623127, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 9192, resource id: 56623156, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so'
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15297, resource id: 52428865, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15520, resource id: 39862494, major code: 3 (GetWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17439, resource id: 77594637, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17444, resource id: 77594637, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 21474, resource id: 56623137, major code: 2 (ChangeWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 22698, resource id: 56623140, major code: 2 (ChangeWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25539, resource id: 77594683, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25544, resource id: 77594683, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 36293, resource id: 39863900, major code: 3 (GetWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 36294, resource id: 39863900, major code: 14 (GetGeometry), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 37946, resource id: 39857233, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 38679, resource id: 39863996, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39471, resource id: 39864023, major code: 3 (GetWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 39472, resource id: 39864023, major code: 14 (GetGeometry), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 39934, resource id: 39864051, major code: 3 (GetWindowAttributes), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 39935, resource id: 39864051, major code: 14 (GetGeometry), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 40605, resource id: 39864033, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 41962, resource id: 39864098, major code: 20 (GetProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 44179, resource id: 100663317, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 46851, resource id: 83886097, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 49213, resource id: 94371857, major code: 18 (ChangeProperty), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 53916, resource id: 77594892, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 53921, resource id: 77594892, major code: 18 (ChangeProperty), minor code: 0

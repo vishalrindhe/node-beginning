@@ -2,13 +2,20 @@
     "telemetry.machineId": "613e6d2b92e1c1dde67414324d9bb0baf842dc673ddb08d64f9fc78bebae4db6",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/ravan/project/mean",
+            "file:///home/ravan/project",
+            "file:///home/ravan/project/forms",
+            "file:///home/ravan/project/forms/tdf",
+            "file:///home/ravan/project/node/mean",
+            "file:///home/ravan/tdf",
             "file:///home/ravan/project/node",
             "file:///home/ravan/project/angular1",
             "file:///home/ravan/project/routing-demo",
             "file:///home/ravan/project/nodehttp"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/ravan/forms/tdf/README.md",
+            "file:///home/ravan/Downloads/backup-7.14.2020_11-22-07_jhakasso.tar.gz"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -38,7 +45,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.24",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -54,13 +61,57 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/ravan/project/mean",
-                                        "external": "file:///home/ravan/project/mean",
-                                        "path": "/home/ravan/project/mean",
+                                        "fsPath": "/home/ravan/project",
+                                        "external": "file:///home/ravan/project",
+                                        "path": "/home/ravan/project",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/project/mean"
+                                    "label": "~/project"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/project/forms",
+                                        "path": "/home/ravan/project/forms",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/forms"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/project/forms/tdf",
+                                        "path": "/home/ravan/project/forms/tdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/forms/tdf"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/project/node/mean",
+                                        "path": "/home/ravan/project/node/mean",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/project/node/mean"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/tdf",
+                                        "path": "/home/ravan/tdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/tdf"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -105,6 +156,31 @@
                                     },
                                     "enabled": true,
                                     "label": "~/project/nodehttp"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/forms/tdf/README.md",
+                                        "path": "/home/ravan/forms/tdf/README.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/forms/tdf/README.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/ravan/Downloads/backup-7.14.2020_11-22-07_jhakasso.tar.gz",
+                                        "path": "/home/ravan/Downloads/backup-7.14.2020_11-22-07_jhakasso.tar.gz",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/backup-7.14.2020_11-22-07_jhakasso.tar.gz"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -158,7 +234,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.23",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -202,6 +278,13 @@
                                 {
                                     "id": "workbench.action.selectIconTheme",
                                     "label": "File &&Icon Theme"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.turnOn",
+                                    "label": "Turn on Settings Sync..."
                                 }
                             ]
                         }
@@ -393,7 +476,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.15",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -407,7 +490,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleCenteredLayout",
-                                    "label": "Centered Layout"
+                                    "label": "&&Centered Layout"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -476,7 +559,7 @@
                         }
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.21",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -630,7 +713,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.26",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -679,7 +762,7 @@
                         }
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.27",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -880,7 +963,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "",
+                        "id": "submenuitem.22",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1499,14 +1582,14 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/ravan/project/mean",
-            "backupPath": "/home/ravan/.config/Code/Backups/d1ef46e5e2d940a3ef5c1e925b7c08fe",
+            "folder": "file:///home/ravan/project",
+            "backupPath": "/home/ravan/.config/Code/Backups/306ea4df643dbdededb2f8eec9f59ff2",
             "uiState": {
                 "mode": 0,
-                "x": 0,
-                "y": 36,
-                "width": 671,
-                "height": 690
+                "x": 683,
+                "y": 29,
+                "width": 683,
+                "height": 703
             }
         },
         "openedWindows": []
