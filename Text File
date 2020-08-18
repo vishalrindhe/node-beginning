@@ -1,0 +1,9 @@
+.gitignore 
+.cache
+.config
+Desktop
+Documents
+Downloads
+.local
+.mozilla
+ 
