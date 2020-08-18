@@ -3096,3 +3096,6 @@ qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 46851, resource 
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 49213, resource id: 94371857, major code: 18 (ChangeProperty), minor code: 0
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 53916, resource id: 77594892, major code: 15 (QueryTree), minor code: 0
 qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 53921, resource id: 77594892, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 3880 terminated.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3520, resource id: 77594933, major code: 15 (QueryTree), minor code: 0
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3525, resource id: 77594933, major code: 18 (ChangeProperty), minor code: 0
